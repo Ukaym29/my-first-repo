@@ -1,0 +1,15 @@
+#carousel-div-1, #carousel-div-2, #carousel-div-3{
+ height: 100vh;
+} 
+#carousel-div-1{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(13\).jpg);
+    background-size: contain;
+}
+#carousel-div-2{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(39\).jpg);
+    background-size: contain;
+}
+#carousel-div-3{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(1\).jpg);
+    background-size: contain;
+}

@@ -1,0 +1,32 @@
+
+#Bootstrapmade{
+    color: #00B1E9;
+}
+#nav-bar{
+    background-color: #023B6D;
+}
+.navbar-brand{
+    font-size: 22px !important;
+}
+#search-field{
+    background-color: #0F4574;
+    color: white;
+}
+#search-field::placeholder{
+    color: #756D74;
+}
+body{
+    background-color: #756D74;
+}
+a {
+    text-decoration: none; 
+    border-bottom: 2px solid transparent; 
+    transition: border-bottom 0.3s; 
+
+  }
+  
+  a:hover,
+  a:active {
+   border-bottom: 2px solid red !important;
+  }
+  

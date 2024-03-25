@@ -1,0 +1,23 @@
+#zenblog-navbar{
+    background-color:#F2F2F2 ;
+    color: black !important;
+}
+#div-1{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(40\).jpg);
+    background-size: cover;
+    height: 100vh;
+}
+#div-2{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(43\).jpg);
+    background-size: cover;
+        height: 100vh;
+}
+#div-3{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(18\).jpg);
+     height: 100vh;
+     background-size: cover;
+}
+#icons-div{
+    display: inline-block;
+    justify-content: space-around;
+}

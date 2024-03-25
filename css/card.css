@@ -1,0 +1,68 @@
+/* #team-text{
+    width: 300px;
+    height: 50px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+} */
+
+#team{
+    text-align: center;
+}
+#team::before,#team::after{
+    content: "";
+    background-color: #e84545;
+    width: 50px;
+    height: 2px;
+    display: inline-block;
+    margin: 10px;
+
+}
+#note{
+    text-align: center;
+}
+.image-div{
+    height: 200px;
+    width: 200px;
+    border: 3px solid white;
+
+}
+#img-div1{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(89\).jpg);
+    background-size: cover;
+}
+#img-div2{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(90\).jpg);
+    background-size: cover;
+}
+#img-div3{
+    background-image: url(../image/wallpaperflare.com_wallpaper\ \(92\).jpg);
+    background-size: cover;
+}
+#teams-section{
+    background-color: bisque;
+}
+.names{
+    text-align: center;
+}
+.icons-div{
+    height: inherit;
+    width: inherit;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* border:3px solid white; */
+    height: 194px;
+    width: 194px;
+    display: none;
+    
+}
+.image-div:hover .icons-div{
+    display: block;
+}
+/* .lines{
+    width: 50px;
+   height: 2px;
+   background-color: #e84545;
+   margin: 10px;
+} */
+

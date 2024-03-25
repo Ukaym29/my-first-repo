@@ -1,0 +1,61 @@
+
+#button{
+    padding: 8px 20px;
+    background-color: #CE1212; 
+    border-radius: 20px;
+    height: 40px;
+}
+
+#watch-vid-link:hover{
+    color: red;
+    
+}
+#watch-vid-link{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#hero-row{
+    height: 675px;
+}
+#circle{
+    color: red;
+    font-size: 30px;
+}
+#About-us, #book-your-stay{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 30px;
+
+}
+#picture-hero{
+    display: flex;
+}
+#list-items{
+    padding-left: 10px;
+}
+#list{
+    list-style-type: none;
+   
+}
+#book-a-table{
+    position: absolute;
+    background-color: red;
+    /* width:390px; */
+    /* top: 10px; */
+    align-items: center;
+    justify-content: center;
+}
+#book-a-table-picture{
+    position: relative;
+
+
+    
+}
+#teach{
+    display: flex;
+    justify-content: space-between;
+}
+
